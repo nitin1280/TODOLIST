@@ -8,6 +8,7 @@ A simple Todo List application built with React.
 - Remove todos
 - Edit todos
 - Mark todos as complete or incomplete
+- Local storage is used to save tasks.
 
 ## Usage
    Open the application and navigate to the main page.
@@ -19,7 +20,8 @@ A simple Todo List application built with React.
    Use the filter options to view completed or pending tasks.
 
 ## Technologies Used
-HTML, CSS, JavaScript and react js
+     vite+react
+     HTML, CSS, JavaScript and react js
 
 ## Install dependencies:
    npm install
@@ -31,3 +33,6 @@ HTML, CSS, JavaScript and react js
 
 ## Deploys
    https://fanciful-fairy-450035.netlify.app
+
+##contact
+  if you have any question then you can contact me on gmail (nitin2017jee@gmail.com).
