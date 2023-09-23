@@ -1,0 +1,71 @@
+body{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-image: url('https://images.pexels.com/photos/5717479/pexels-photo-5717479.jpeg?cs=srgb&dl=pexels-polina-kovaleva-5717479.jpg&fm=jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+/* .TodoItem{
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  border: 2px solid orange;
+} */
+.list{
+  /* border: 2px solid orange; */
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #fff;
+  margin-top: 5px;
+}
+/* span{
+  text-decoration: none;
+  margin-right: 10px;
+}
+span.completed {
+  text-decoration: line-through;
+}
+.TodoList{
+  margin-top: 20px;
+} */
+
+input {
+  padding: 6px;
+  margin-right: 10px;
+  border: 2px solid orange;
+}
+h1{
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-right: 30%;
+}
+button {
+  margin: 5px;
+  margin-right: 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+  border: none;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+}
+button:hover{
+  background-color: #2980b9;
+}
+
+button:active{
+  background-color: #1abc9c;
+}
+
+@media (max-width:768px) {
+  body{
+    
+    height: 100vh;
+  }
+  h1{
+    font-size: 24px;
+  }
+}
