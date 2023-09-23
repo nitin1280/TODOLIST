@@ -27,7 +27,7 @@ A simple Todo List application built with React.
    npm install
 
 ## Start the development server:
-   npm start
+   npm run dev
    the app will be running at 
    http://localhost:3000
 
