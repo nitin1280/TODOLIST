@@ -8,29 +8,12 @@ body{
   height: 100vh;
 }
 
-/* .TodoItem{
-  display: flex;
-  align-items: center;
-  margin-bottom: 10px;
-  border: 2px solid orange;
-} */
 .list{
-  /* border: 2px solid orange; */
   border-radius: 5px;
   padding: 10px;
   background-color: #fff;
   margin-top: 5px;
 }
-/* span{
-  text-decoration: none;
-  margin-right: 10px;
-}
-span.completed {
-  text-decoration: line-through;
-}
-.TodoList{
-  margin-top: 20px;
-} */
 
 input {
   padding: 6px;
